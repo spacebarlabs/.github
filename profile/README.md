@@ -12,3 +12,5 @@
 </div>
 
 [Space Bar Labs](https://spacebarlabs.com/) is an Iowa City-based company dedicated to democratizing access to open-source software through [CloudBreak](https://cloudbreak.app). Our goal is to provide the uncompromising privacy of self-hosting with the frictionless convenience of the cloud, making "self-hostable software for the rest of us" a reality.
+
+**Consulting Services:** With over 20 years of software engineering experience, we also offer specialized fractional consulting with deep expertise in Ruby and Rails. *Interested in working together? Reach out to us at hello [at] spacebarlabs [dot] com*.  (To help us sort real inquiries from automated spam, please include the phrase **"Fractional Ruby"** in your subject line.)
